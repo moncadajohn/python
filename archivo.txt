@@ -1,0 +1,3 @@
+Comienzo del Texto estudiar python 
+Línea incluída desde el exterior
+ siempre es una buena ocasión para estudiar python
