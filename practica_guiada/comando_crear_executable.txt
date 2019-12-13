@@ -1,0 +1,6 @@
+##descargar el instalador para python
+pip install pyinstaller
+
+##comando para crear el executable
+
+pyinstaller --windowed --onefile --icon=./mario.ico ventanaPractica.py
